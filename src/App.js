@@ -15,7 +15,7 @@ const Page = ({ title }) => (
     </div>
     <p className="App-intro">
       This is the {title} page.
-      </p>
+    </p>
     <p>
       <Link to="/">Home</Link>
     </p>
