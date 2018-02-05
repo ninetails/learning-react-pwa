@@ -1,6 +1,10 @@
 # learning-react-pwa
 From https://engineering.musefind.com/build-your-first-progressive-web-app-with-react-8e1449c575cd
 
+## To deploy
+
+    npm run build && firebase deploy
+
 ## CRA
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
